@@ -1,9 +1,7 @@
 <?php
 
-namespace kinsta\teams;
+namespace kinsta;
 
-use kinsta\teams\profile\Profile;
-use kinsta\teams\team\Team;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\SingletonTrait;
 

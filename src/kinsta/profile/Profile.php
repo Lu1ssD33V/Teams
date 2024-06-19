@@ -1,8 +1,8 @@
 <?php
 
-namespace kinsta\teams\profile;
+namespace kinsta\profile;
 
-use kinsta\teams\Teams;
+use kinsta\Teams;
 use pocketmine\player\Player;
 
 class Profile {

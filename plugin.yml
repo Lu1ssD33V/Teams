@@ -1,4 +1,4 @@
 name: Teams
 version: 0.0.1
-main: kinsta\teams\Teams
+main: kinsta\Teams
 api: 5.16.0

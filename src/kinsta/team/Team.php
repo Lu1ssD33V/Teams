@@ -1,9 +1,8 @@
 <?php
 
-namespace kinsta\teams\team;
+namespace kinsta\team;
 
-use kinsta\teams\profile\Profile;
-use pocketmine\utils\TextFormat;
+use kinsta\profile\Profile;
 
 class Team {
 
