@@ -1,0 +1,6 @@
+{
+    "name": "kinsta/teams",
+    "require": {
+        "pocketmine/pocketmine-mp": "^5.16"
+    }
+}
